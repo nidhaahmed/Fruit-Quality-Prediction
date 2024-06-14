@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-minimal
 # Fruit Quality Prediction
 
 ## Description
